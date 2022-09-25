@@ -42,4 +42,4 @@ In Deliverable 5, Public High schools were found to have lower math scores in th
 Montgomery High School was found to have the highest number of students with 2038, and Chang High School was found to have the lowest with 171.
 Public High schools have a higher budget than Chartered High Schools.
 
-Please click on link to view file: [School_District_Analysis file](s://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
+Please click on link to view file: [School_District_Analysis file](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
