@@ -41,5 +41,5 @@ In Deliverable 4, research was undertaken to drill down deeper into the grades, 
 In Deliverable 5, Public High schools were found to have lower math scores in the 9th to 11th grades but higher math grades in the 12th grade than Chartered high schools. Public High schools were found to have higher reading scores in grades 9, 10 and 12, but lower reading scores for grade 11, than Chartered High schools respectively. 
 Montgomery High School was found to have the highest number of students with 2038, and Chang High School was found to have the lowest with 171.
 Public High schools have a higher budget than Chartered High Schools.
-Please click on link to view file:
-[School_District_Analysis file](s://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
+
+Please click on link to view file: [School_District_Analysis file](s://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
