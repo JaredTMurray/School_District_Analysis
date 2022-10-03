@@ -22,8 +22,8 @@ The data types were of the following for each column:
 - school_type       object
 - school_budget      int64
 - dtype: object
+The image below shows the isna function, which was used to clean the data nan vaules for 
 
-THe image below showa the function is null 
 ![isnull](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/d2_isnull.png)
 
 ### In Deliverable 3:
@@ -39,6 +39,8 @@ Analysis of the Dataset for student_df contains numerical data, the description 
 - max - the maximum value.
 
 An overall average math score was 64.7 and the minimum reading score 10.5.
+
+![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/3_Describe.png)
 
 
 ### In Deliverable 4:
