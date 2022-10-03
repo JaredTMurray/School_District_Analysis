@@ -49,6 +49,7 @@ Research was undertaken to drill down deeper into the grades, math score, readin
 ![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/4_Loc.png)
 
 Combine Reading Score of grade 11 or 12
+
 ![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/4_11_12.png)
 
 ### In Deliverable 5:
@@ -59,4 +60,4 @@ Public High schools have a higher budget than Chartered High Schools.
 ![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/5_count.png)
 ![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/5_mean_round.png)
 
-## Please click on link to view file: [School_District_Analysis file](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
+### Please click on link to view file: [School_District_Analysis file](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
