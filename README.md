@@ -48,6 +48,9 @@ Research was undertaken to drill down deeper into the grades, math score, readin
 
 ![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/4_Loc.png)
 
+Combine Reading Score of grade 11 or 12
+![](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/4_11_12.png)
+
 ### In Deliverable 5:
 Public High schools were found to have lower math scores in the 9th to 11th grades but higher math grades in the 12th grade than Chartered high schools. Public High schools were found to have higher reading scores in grades 9, 10 and 12, but lower reading scores for grade 11, than Chartered High schools respectively. 
 Montgomery High School was found to have the highest number of students with 2038, and Chang High School was found to have the lowest with 171.
