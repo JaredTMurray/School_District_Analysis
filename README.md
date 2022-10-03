@@ -23,6 +23,8 @@ The data types were of the following for each column:
 - school_budget      int64
 - dtype: object
 
+THe image below showa the function is null 
+![isnull](https://github.com/JaredTMurray/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/d2_isnull.png)
 
 ### In Deliverable 3:
 Analysis of the Dataset for student_df contains numerical data, the description contains these information for each column:
